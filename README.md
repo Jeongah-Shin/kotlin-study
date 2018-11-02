@@ -37,7 +37,7 @@ Mash-Up 안드로이드 스터디 4회차 - **Layout Handling과 DTO 개념**
 
     - Which **"layers"** ? 
 
-    ![](/Users/jeongahri/Codes/Android/kotlin-study/images/layered_architecture.png)
+    ![](./images/layered_architecture.png)
 
     > **Layered Architcture Pattern (N-tier Architecture Pattern)**	
     >
