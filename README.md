@@ -2,9 +2,9 @@
 
 
 
-$2018.11.03$ 
+*2018.11.03*
 
-**Mash-Up 안드로이드 스터디 4회차 - ** <u>**Layout Handling과 DTO 개념**</u>
+Mash-Up 안드로이드 스터디 4회차 - **Layout Handling과 DTO 개념**
 
 
 
